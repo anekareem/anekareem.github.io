@@ -18,14 +18,14 @@ text-align:center;
 color:#FFFFFF;
 hover:#FFFFF;
 width:auto;
-height:2px;
+height:1px;
 border-width:1px;
 border-color:#000000;
 border-style:solid;
 padding:1.5em;
 font-family:Arial, sans-serif;
 font-size:12px;
-line-height:2px;
+line-height:1px;
 }
 a.Link:link {
 text-decoration:blink;color:#FFFFFF;
