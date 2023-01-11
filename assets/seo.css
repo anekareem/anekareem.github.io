@@ -10,6 +10,7 @@ background: linear-gradient(to right, #000000 0%, #000000 100%);
 
 /* Non-gradient code. This styles things like the text, box, border, etc */
     overflow-x:auto;
+    overflow-y:hidden;
     white-space:nowrap;
     min-width:280px;
     position:relative;
