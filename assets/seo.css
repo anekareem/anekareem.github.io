@@ -1,8 +1,5 @@
-<!-- Super Network by Jatra SEO -->
-
-<!-- CSS Code -->
-<style type="text/css" scoped>
-div.GeneratedGradient {
+<style type='text/css'>
+div.JatraSEO {
 
 /* Code for the gradient */
 background: -webkit-gradient(linear, left top, right top, color-stop(0, #000000), color-stop(1, #000000));
@@ -13,6 +10,11 @@ background: -ms-linear-gradient(left, #000000 0%, #000000 100%);
 background: linear-gradient(to right, #000000 0%, #000000 100%);
 
 /* Non-gradient code. This styles things like the text, box, border, etc */
+    overflow-x:auto;
+    white-space:nowrap;
+    color:white;
+    min-width:280px;
+    position:relative;
 text-align:center;
 color:#FFFFFF;
 hover:#FFFFF;
@@ -38,5 +40,5 @@ color:#FF0000;
 a.Link:active {
 color:#FF0000;
 }
+
 </style>
-<!-- Jatra SEO Network-->
