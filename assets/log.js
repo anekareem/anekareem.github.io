@@ -1,4 +1,4 @@
-<script>// To disable right click
+// To disable right click
 document.addEventListener('contextmenu', event => event.preventDefault());
 
 // To disable F12 options
@@ -46,4 +46,4 @@ window.oncontextmenu = function () {
             else if ((event.ctrlKey && event.shiftKey && event.keyCode == 73) || (event.ctrlKey && event.shiftKey && event.keyCode == 74)) {
                 return false;
             }
-        });</script>
+        });
